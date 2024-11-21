@@ -1,0 +1,7 @@
+streamlit
+pandas
+folium
+streamlit_folium
+st_folium
+matplotlib
+matplotlib.pyplot
